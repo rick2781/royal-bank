@@ -1,0 +1,56 @@
+[
+  {
+    "name":"Royal Bank of Canada",
+    "amount":60032346.70,
+    "ROI":13.2,
+    "id":1
+  },
+  {
+    "name":"Offshore - Cayman Islands",
+    "amount":232393256.23,
+    "ROI":8.2,
+    "id":2
+  },
+  {
+    "name":"Berkshire",
+    "amount":344643632.12,
+    "ROI":-4.2,
+    "id":3
+  },
+  {
+    "name":"Real Estate Holdings",
+    "amount":678643632.98,
+    "ROI":-7.6,
+    "id":4
+  },
+  {
+    "name":"Gold Bars",
+    "amount":219893632.76,
+    "ROI":19.2,
+    "id":5
+  },
+  {
+    "name":"Venture Capital Investments",
+    "amount":42730992.45,
+    "ROI":-16.2,
+    "id":6
+  },
+  {
+    "name":"Stuffed Under Mattress",
+    "amount":509442.45,
+    "ROI":0,
+    "id":7
+  },
+  {
+    "name":"Mining Companies",
+    "amount":14502094.69,
+    "ROI":4.1,
+    "id":8
+  },
+  {
+    "name":"Antiquities",
+    "amount":254302094.69,
+    "ROI":6.7,
+    "id":9
+  }
+]
