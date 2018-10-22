@@ -19,6 +19,9 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/35080524/47273305-372eac00-d547-11e8-8f56-fa61f0475cb8.jpeg" width="50%">
 
+## Video discussing the assignment (Click on the image)
+[![RoyalBankAppVideo](http://i3.ytimg.com/vi/tk_ixPB-2SE/maxresdefault.jpg)](https://www.youtube.com/embed/tk_ixPB-2SE)
+
 ## Used in this project:
 
 * [Koin - Service Locator For Kotlin](https://github.com/InsertKoinIO/koin)
